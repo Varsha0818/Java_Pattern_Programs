@@ -1,4 +1,4 @@
-/* Print the Pattern- Half Pyramid
+/* Print the Pattern- Inverted Half Pyramid
 ****
 ***
 **
