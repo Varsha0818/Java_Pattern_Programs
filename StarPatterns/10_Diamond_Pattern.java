@@ -9,7 +9,7 @@
    *
 */
 
-public class StarPattern8 {
+public class StarPattern11 {
     public static void main(String args[]){
         int n = 4;
 
