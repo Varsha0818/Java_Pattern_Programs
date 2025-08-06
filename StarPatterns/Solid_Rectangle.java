@@ -5,7 +5,7 @@
 *****
 */
 
-public class Practice {
+public class StarPattern1 {
     public static void main(String args[]){
         int m = 4;     //number of rows
         int n = 5;     //number of columns
