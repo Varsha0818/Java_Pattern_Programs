@@ -1,12 +1,14 @@
-// Solid Rectangle
+/* Print the Pattern- Solid Rectangle
+*****
+*****
+*****
+*****
+*/
 
-import java.util.*;
-
-public class Solid_Rectangle {
-    public static void main(String[] args){
-        Scanner sc = new Scanner(System.in);
-        int m = sc.nextInt();     //number of rows
-        int n = sc.nextInt();     //number of columns
+public class Practice {
+    public static void main(String args[]){
+        int m = 4;     //number of rows
+        int n = 5;     //number of columns
 
         for(int i=1;i<=m;i++){
             for(int j=1;j<=n;j++){
