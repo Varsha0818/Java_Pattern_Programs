@@ -4,6 +4,7 @@
 *   *
 *****
 */
+
 public class StarPattern2 {
     public static void main(String args[]){
         int m = 4;     //number of rows
